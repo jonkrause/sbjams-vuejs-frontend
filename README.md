@@ -1,6 +1,6 @@
 # Strawberry Jam
 
-> Front-end developed with VueJs
+> Front-end developed with VueJs and VueX
 
 ## Build Setup
 
