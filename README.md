@@ -1,6 +1,6 @@
-# vuetify-firebase-auth
+# Strawberry Jam
 
-> A Vue.js project
+> Front-end developed with VueJs
 
 ## Build Setup
 
